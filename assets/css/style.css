@@ -4,3 +4,20 @@
 h2{
 	color: darkred 
 }
+
+.color p{
+	font-size: 20px;
+}
+
+.color h2{
+	font-size: 39px;
+}
+
+.color img{
+	height: 450px;
+	width: 400px;
+}
+
+.color h4{
+	color: purple;
+}
